@@ -2,10 +2,10 @@
 
 ## Team ID - PNT2022TMID09351
 
-## Team Leader - SEENUVASAN V (310619104122)
-## Member 1 - PRADEEP R (310619104313)
-## Member 2 - SHRIRAAM B (310619104316)
-## Member 3 - SESHADRI KS (310619104123)
+## Team Leader - SEENUVASAN V - (310619104122)
+## Member 1 - PRADEEP R - (310619104313)
+## Member 2 - SHRIRAAM B - (310619104316)
+## Member 3 - SESHADRI KS - (310619104123)
 
 ### Goals :
 1. Hardware & Cloud integration 
