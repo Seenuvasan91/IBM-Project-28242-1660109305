@@ -2,7 +2,7 @@
 
 ## Team ID - PNT2022TMID09351
 
-### Sprint Goals :
+### Goals :
 1. Hardware & Cloud integration 
 2. UI/UX Optimization
 
