@@ -2,6 +2,11 @@
 
 ## Team ID - PNT2022TMID09351
 
+## Team Leader - SEENUVASAN
+## Member 1 - PRADEEP R
+## Member 2 - SHRIRAAM B
+## Member 3 - SESHADRI KS
+
 ### Goals :
 1. Hardware & Cloud integration 
 2. UI/UX Optimization
