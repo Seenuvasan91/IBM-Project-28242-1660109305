@@ -4,21 +4,24 @@
 
 - **Team ID:** PNT2022TMID09351
 
-- **TEAM LEADER:**  
-  ### **SEENUVASAN V**  
-  **ID:** 310619104122
+---------------------------------------------
 
-- **Member 1:** Pradeep R (310619104313)
-- **Member 2:** Shriram B (310619104316)
-- **Member 3:** Seshadri KS (310619104123)
+### **TEAM LEADER**  
+**SEENUVASAN V**  
+**ID:** 310619104122
+
+---------------------------------------------
+
+- **Member 1:** PRADEEP R (310619104313)
+- **Member 2:** SHRIRAAM B (310619104316)
+- **Member 3:** SESHADRI KS (310619104123)
 
 ## Goals
 
 1. **Hardware & Cloud Integration**
 2. **UI/UX Optimization**
 
-
-
+---------------------------------------------
 
 #### Process Flow :
 ![processFlow](https://user-images.githubusercontent.com/85010264/201740568-a8f39c71-3600-4baf-860c-e53931efc78c.jpg)
