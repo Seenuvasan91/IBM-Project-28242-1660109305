@@ -4,7 +4,10 @@
 
 - **Team ID:** PNT2022TMID09351
 
-- **Team Leader:** **_Seenuvasan V_** (310619104122)
+- **Team Leader:** 
+  > **Seenuvasan V**  
+  > (310619104122)
+
 - **Member 1:** Pradeep R (310619104313)
 - **Member 2:** Shriram B (310619104316)
 - **Member 3:** Seshadri KS (310619104123)
@@ -13,6 +16,7 @@
 
 1. **Hardware & Cloud Integration**
 2. **UI/UX Optimization**
+
 
 
 #### Process Flow :
