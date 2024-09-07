@@ -5,7 +5,7 @@
 - **Team ID:** PNT2022TMID09351
 
 - **TEAM LEADER:**  
-  ### **SEENUvasan V**  
+  ### **SEENUVASAN V**  
   **ID:** 310619104122
 
 - **Member 1:** Pradeep R (310619104313)
